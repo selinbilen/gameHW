@@ -1,9 +1,8 @@
 //
-//  GameMenu.swift
-//  TapCars
+//  GameScene.swift
+//  CarGame
 //
-//  Created by Kishan Nakum on 24/01/17.
-//  Copyright © 2017 kishan nakum. All rights reserved.
+//  Created by selin eylül bilen on 3/31/21.
 //
 
 import Foundation
